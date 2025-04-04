@@ -1,4 +1,4 @@
-# 👋 Hello, I'm ae1207  
+# 👋 Hello, I'm @ae1207  
 
 Welcome to my GitHub! This is where I document my journey in CTF challenges, cybersecurity, and possibly other tech-related stuff.  
 
@@ -13,6 +13,6 @@ Welcome to my GitHub! This is where I document my journey in CTF challenges, cyb
 - 🛠️ Exploring networking, Linux security, and automation  
 
 ## 📫 Connect With Me  
-- [Your preferred contact method, e.g., email, Twitter, Discord]  
+- ✉️ amineusoff2000@gmail.com
 
 ⚡ Fun fact: I enjoy solving puzzles and breaking things (ethically, of course!)  
