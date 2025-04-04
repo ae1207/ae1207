@@ -1,13 +1,18 @@
-Hello
-- 👋 Hi, I’m @ae1207
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hello, I'm [ae1207]  
 
-<!---
-ae1207/ae1207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub! This is where I document my journey in CTF challenges, cybersecurity, and possibly other tech-related stuff.  
+
+## 🛠️ What You'll Find Here  
+- 🏴 CTF Writeups (Forensics, Cryptography, and more)  
+- 🔍 Security-related experiments & research  
+- 📚 Learning notes & resources  
+
+## 🚀 About Me  
+- 👀 Interested in cybersecurity, CTFs, and system administration  
+- 🌱 Currently improving my forensic and cryptography skills  
+- 🛠️ Exploring networking, Linux security, and automation  
+
+## 📫 Connect With Me  
+- [Your preferred contact method, e.g., email, Twitter, Discord]  
+
+⚡ Fun fact: I enjoy solving puzzles and breaking things (ethically, of course!)  
