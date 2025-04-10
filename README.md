@@ -13,6 +13,5 @@ Welcome to my GitHub! This is where I document my journey in CTF challenges, cyb
 - 🛠️ Exploring networking, Linux security, and automation  
 
 ## 📫 Connect With Me  
-- ✉️ amineusoff2000@gmail.com
-
-⚡ Fun fact: I enjoy solving puzzles and breaking things (ethically, of course!)  
+- ✉ amineusoff2000@gmail.com
+- ✉ 1211112228@student.mmu.edu.my
