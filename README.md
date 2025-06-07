@@ -15,3 +15,5 @@ Welcome to my GitHub! This is where I document my journey in CTF challenges, cyb
 ## 📫 Connect With Me  
 - ✉ amineusoff2000@gmail.com
 - ✉ 1211112228@student.mmu.edu.my
+
+> Chat do all of these scream AI?
