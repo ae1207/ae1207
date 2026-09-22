@@ -16,13 +16,8 @@ A Python Telegram bot for downloading supported public videos from YouTube, Inst
 
 ### [CTF Writeups](https://github.com/ae1207/writeups)
 
-Writeups from CTFs I've taken part in, including NETSA and SillyCTF. A place to keep my solutions and look back at how I approached the challenges.
+Writeups from CTFs I've taken part in. A place to keep my solutions and look back at how I approached the challenges.
 
-### [NBA Data Wrangling & Visualisation](https://github.com/ae1207/nba-s2324)
-
-University coursework using an NBA 2024 dataset for data wrangling and visualisation.
-
-More of my coursework and project files are in [acad](https://github.com/ae1207/acad).
 
 ## Get in touch
 
