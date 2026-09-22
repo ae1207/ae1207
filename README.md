@@ -1,19 +1,11 @@
-# 👋 Hello, I'm Eusoff.  
+# Hi, I'm Eusoff
 
-Welcome to my GitHub! This is where I document my journey in CTF challenges, cybersecurity, and possibly other tech-related stuff.  
+I go by **ae1207** online. I'm interested in cybersecurity, especially digital forensics and cryptography, and I enjoy working through CTF challenges.
 
-## 🛠️ What You'll Find Here  
-- 🏴 CTF Writeups (Forensics, Cryptography, and more)  
-- 🔍 Security-related experiments & research  
-- 📚 Learning notes & resources  
+This is where I keep my writeups, learning notes, and small projects. I write things down so I can revisit how I solved a problem—and hopefully help someone else who's stuck on the same thing.
 
-## 🚀 About Me  
-- 👀 Interested in cybersecurity, CTFs, and system administration  
-- 🌱 Currently improving my forensic and cryptography skills  
-- 🛠️ Exploring networking, Linux security, and automation  
+Besides CTFs, I like tinkering with Linux, networking, and scripts that make everyday tasks easier. You might find a few unrelated tech projects here too.
 
-## 📫 Connect With Me  
-- ✉ amineusoff2000@gmail.com
-- https://www.linkedin.com/in/eusoff-aminurrashid/
+## Get in touch
 
-> Chat do all of these scream AI?
+[Email](mailto:amineusoff2000@gmail.com) · [LinkedIn](https://www.linkedin.com/in/eusoff-aminurrashid/)
